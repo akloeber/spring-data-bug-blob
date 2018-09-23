@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package hello;
+package test;
 
 import org.hibernate.engine.jdbc.BlobProxy;
 import org.junit.Test;

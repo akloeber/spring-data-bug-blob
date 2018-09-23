@@ -1,5 +1,5 @@
 // tag::sample[]
-package hello;
+package test;
 
 import javax.persistence.*;
 import java.sql.Blob;
